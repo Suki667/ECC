@@ -1,13 +1,5 @@
 # To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation
 
-A new metric for Visual Emotion Recognition.
-
-Train:
-
-python train.py --dataset FI --path '/path/to/dataset' --network resnet50
-
-# To Err like Human: Affective Bias-Inspired Measures for VER
-
 This repository contains the implementation of our paper "To Err like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation", which introduces a new evaluation metric for Visual Emotion Recognition (VER).
 
 ## Dataset Preparation
