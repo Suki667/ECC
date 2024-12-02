@@ -4,7 +4,7 @@ This repository contains the implementation of our paper "To Err like Human: Aff
 
 ## Dataset Preparation
 1. Download the FI dataset
-2. Download the EmoSet dataset[from here](https://github.com/JingyuanYY/EmoSet)
+2. Download the EmoSet dataset [from here](https://github.com/JingyuanYY/EmoSet)
 3. Organize the dataset structure as follows:
 
 ```
